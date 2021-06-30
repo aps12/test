@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/apache-commons.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/byte-buddy-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/client-combined-3.13.0.jar" sourcepath="/checkHist"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/client-combined-3.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/cucumber-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/cucumber-java-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/cucumber-junit-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/cucumber-reporting-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/gherkin-2.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/groovy-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/gson-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/selenium-java.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/xmlbeans.jar"/>
+	<classpathentry kind="lib" path="C:/Data Back up/Desktop/Automation/Automation/jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
